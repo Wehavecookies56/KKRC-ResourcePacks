@@ -1,0 +1,6 @@
+cd ".\KK Re Coded HD -ReMIX-"
+"C:\Program Files\WinRAR\WinRAR.exe" a -afzip "..\Releases\KK Re Coded HD -ReMIX- OST.zip" ".\assets" ".\pack.mcmeta"
+cd "..\Kingdom Keys Music Pack"
+"C:\Program Files\WinRAR\WinRAR.exe" a -afzip "..\Releases\KK Re Coded HD -ReMIX- OST.zip" ".\assets"
+cd "..\Kingdom Keys HD Music"
+"C:\Program Files\WinRAR\WinRAR.exe" a -afzip "..\Releases\KK Re Coded HD -ReMIX- OST.zip" ".\pack.png"
