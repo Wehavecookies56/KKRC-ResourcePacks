@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl KKD
+Kd 0.800000 0.800000 0.800000
+d 1.000000
+map_Kd kingdomkeys:item/models/keyblades/kingdomkeyd_1
+
+newmtl KKeychainD
+Kd 0.800000 0.800000 0.800000
+d 1.000000
+map_Kd kingdomkeys:item/models/keyblades/kingdomkeyd_2
