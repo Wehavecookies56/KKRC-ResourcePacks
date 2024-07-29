@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Brush.065
+Kd 0.800000 0.800000 0.800000
+d 1.000000
+map_Kd kingdomkeys:item/models/keyblades/waywardwind_2
+
+newmtl Brush.066
+Kd 0.800000 0.800000 0.800000
+d 1.000000
+map_Kd kingdomkeys:item/models/keyblades/waywardwind_1
