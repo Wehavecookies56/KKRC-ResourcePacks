@@ -1,5 +1,5 @@
 # KKRC-ResourcePacks
-Optional resourcepacks for Kingdom Keys Re:Coded
+Optional resourcepacks for Kingdom Keys 2
 Include:
 - A high quality Resource Pack (KK Re Coded HD -ReMIX-)
 - A music Resource Pack (Kingdom Keys Music Pack)
