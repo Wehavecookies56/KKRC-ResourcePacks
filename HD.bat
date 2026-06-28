@@ -1,2 +1,5 @@
+@echo off
+if not exist "..\Releases" mkdir "..\Releases"
 cd ".\KK Re Coded HD -ReMIX-"
-"C:\Program Files\7-Zip\7z.exe" a "..\Releases\KK2 HDRP 1.21.1.zip" ".\assets" ".\pack.mcmeta" ".\pack.png"
+if exist "..\Releases\KK2 HDRP 1.21.1.zip" del "..\Releases\KK2 HDRP 1.21.1.zip"
+tar -a -cf "..\Releases\KK2 HDRP 1.21.1.zip" assets pack.mcmeta pack.png
